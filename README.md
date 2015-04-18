@@ -1,3 +1,5 @@
+This project is not supported anymore. Soon to be rewritten in meteorJS.
+
 TeamSync
 ========
 
